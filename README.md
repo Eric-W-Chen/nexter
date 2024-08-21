@@ -21,7 +21,7 @@ Cross-Browser Compatibility: Ensures consistent performance and appearance acros
 
 ## Live Demo
 
-Check out the live demo of the Nexter project [here](https://your-live-demo-link.com).
+Check out the live demo of the Nexter project [here](https://eric-nexter.netlify.app/).
 
 ## Installation
 
