@@ -61,6 +61,7 @@ Refresh the browser to see your updates.
 - **JavaScript (ES6+)**: Adds interactivity and enhances the user experience with dynamic content.
 - **HTML5**: For the semantic structure of the web page.
 - **CSS3**: Extensive use of CSS Grid for layout, as well as custom animations and transitions for interactivity.
+- **SASS/SCSS**: CSS preprocessor for writing modular and maintainable stylesheets.
 - **Git**: Version control to manage changes during development.
 - **Netlify**: Used for deploying and hosting the live site.
 
